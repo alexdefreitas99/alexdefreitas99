@@ -1,16 +1,15 @@
-### Hi there 👋
+# :man_technologist: Alex
 
-<!--
-**alexdefreitas99/alexdefreitas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexdefreitas99?tab=repositories)](https://github.com/alexdefreitas99?tab=repositories)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/alex-de-freitas-02923117b)](https://br.linkedin.com/in/alex-de-freitas-02923117b)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/alexdefreitas99)](https://t.me/alexdefreitas99)
 
-Here are some ideas to get you started:
+## Olá! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Alex, I'm java software developer
+
+- :office_worker:  At **Sicredi digital**
+- :blue_heart: Techs: Java,  MicroServices, Kafk, Javascript, Docker and TypeScript.
+- :books: Computer Science.
+
+---
