@@ -9,7 +9,7 @@
 My name is Alex, I'm java software developer
 
 - :office_worker:  At **Sicredi digital**
-- :blue_heart: Techs: Java,  MicroServices, Kafka, Javascript, Docker and TypeScript.
+- :blue_heart: Techs: Java,  Kafka, Javascript, Docker and TypeScript.
 - :books: Computer Science.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Interesting stats
