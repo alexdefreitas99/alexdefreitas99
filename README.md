@@ -8,7 +8,7 @@
 
 My name is Alex, I'm java software developer
 
-- :office_worker:  At **Sicredi digital**
+- :office_worker:  At **Brigada Militar**
 - :blue_heart: Techs: Java,  Kafka, Javascript, Docker and TypeScript.
 - :books: Computer Science.
 
