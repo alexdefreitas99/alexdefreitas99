@@ -14,7 +14,7 @@ My name is Alex, I'm java software developer
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Interesting stats
 
-![Alex stats](https://github-readme-stats.vercel.app/api?username=alexdefreitas99&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdefreitas99&layout=compact)
+![Alex stats](https://github-readme-stats.vercel.app/api?username=alexdefreitas99&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdefreitas99&layout=compact&theme=dracula)
 
 ---
