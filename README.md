@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 - 🏢 Currently working as a Software Developer at **Brigada Militar**.
-- 🎓 **Computer Science** graduated.
+- 🎓 **Computer Science** undergraduated.
 - ⚖️ **Law** student.
 - 💡 Passionate about backend development, software architecture, and building scalable solutions.
 
